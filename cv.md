@@ -7,7 +7,10 @@
 * Github: _[GeorgKop](https://github.com/GeorgKop)_
 ---
 ### About me:
-* 
+_After graduation, I was writing applications in the Visual Basic IDE._  
+_Having signed up for the courses, I have a goal to learn new programming language,_  
+_to join the community of programmers and achieve new opportunities in programming._ 
+
 ---
 ### Skills:
 * _C#_
@@ -48,12 +51,16 @@ ___
 ~~~
 ___
 ### Experience:
+_I have ten years of experience writing applications_
 
 ---
-### Education:
-* _Moscow Engineering Physics Institute, Faculty of Cybernetics_
+### Education:  
+_Moscow Engineering Physics Institute, Faculty of Cybernetics_
+
 ---
 ### English:
+_A2_
 
+---
 
 
